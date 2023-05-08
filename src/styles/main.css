@@ -1,0 +1,18 @@
+html,
+body,
+#app {
+  min-height:100vh;
+  margin: 0;
+  padding: 0;
+  color: #161B20;
+  font-size: 15px;
+  touch-action: manipulation
+}
+
+::-webkit-scrollbar {
+  display: none
+}
+
+:root {
+  --van-padding-xs: 16px;
+}

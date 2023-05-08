@@ -1,0 +1,6 @@
+dist
+public
+node_modules
+src/auto-imports.d.ts
+src/assets
+src/src-1
